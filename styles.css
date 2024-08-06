@@ -13,12 +13,21 @@ header {
     text-align: center;
     align-items: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+    position: fixed;
+}
+#primeiro{
+    position: absolute;
+    left: 0;}
+#ultimo{
+        position: absolute;
+        right: 0;
 }
 
 .links_topbar{
     padding: 45px;
+    
 }
+
 
 .links_topbar > a {
     text-decoration: none;
