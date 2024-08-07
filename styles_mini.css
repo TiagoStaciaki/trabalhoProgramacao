@@ -21,7 +21,7 @@ header a {
 }
 
 .template-1{
-    background-image: url(./img_nether/Nether_walpaper.webp);
+    background-image: url(./img_mini/primeirajpg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -33,7 +33,7 @@ header a {
     color: white;
     text-align: center;
     height: 450px;
-    background-color: #A91122;
+    background-color: #282828;
 }
 
 .template-2 p{
@@ -51,7 +51,7 @@ header a {
 
 .template-3{
     height: 500px;
-    background-color: #71120C;
+    background-color: #100c0b;
     text-align: center;
     color: white;
     padding: 60px;
@@ -81,7 +81,7 @@ header a {
 
 .template-4{
     height: 500px;
-    background-color: #71120C;
+    background-color: #0c0a0a;
     text-align: center;
     color: white;
     padding: 60px;
@@ -110,7 +110,7 @@ header a {
 
 .template-5{
     height: 500px;
-    background-color: #71120C;
+    background-color: #0b0a09;
     text-align: center;
     color: white;
     padding: 10px;
