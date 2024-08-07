@@ -5,7 +5,7 @@
 }
 
 header {
-    background-color: #1F2421;
+    background-color: #25183A;
     background-size: cover;
     text-align: center;
     align-items: center;
@@ -37,75 +37,66 @@ header a {
 }
 
 .template-2 p{
-    font-size: 20px;
     margin-top: 60px;
     margin-left: 150px;
     text-align: start;
 }
 
 .template-2 img{
-    position: relative;
-    top: -70%;
-    left: 30%;
+    height: 400px;
+    display: block;
+    margin-left: 1100px;
+    margin-top: -220px;
 }
 
 .template-3{
-    height: 500px;
+    height: 1000px;
     background-color: #25183A;
     text-align: center;
     color: white;
-    padding: 60px;
+    padding: 40px;
 }
 
-.template-3 h2{
+.template-3 .cidade{
     text-align: start;
-    margin-left: 250px;
-    margin-top: 60px;
-}
-
-.template-3 img{
-    border: 2px solid black;
-    height: 300px;
-    width: 500px;
-    position: relative;
-    top: 40px;
-    left: -300px;
-}
-
-.template-3 p{
-    font-size: 20px;
-    text-align:start;
-    margin-top: -250px;
-    margin-left: 800px;
-}
-
-.template-4{
-    height: 500px;
-    background-color: #25183A;
-    text-align: center;
-    color: white;
-    padding: 60px;
-}
-
-.template-4 h2{
-    text-align: end;
-    margin-right: 200px;
-}
-
-.template-4 p{
-    font-size: 20px;
-    text-align: start;
-    margin-left: 100px;
+    margin-left: 1010px;
     margin-top: 150px;
+    margin-bottom: 20px;
 }
 
-.template-4 img{
-    height: 300px;
-    width: 500px;
-    border: 2px solid black;
-    position: relative;
-    top: -250px;
-    left: 400px;
+.template-3 .img-cidade{
+    height: 350px;
+    margin-right: 600px;
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+
+.template-3 .text-cidade{
+    font-size: 24px;
+    text-align: left;
+    margin-left: 800px;
+    margin-top: -250px;
+}
+
+.template-3 .barco {
+    text-align: start;
+    margin-left: 370px;
+    margin-top: 250px;
+    margin-bottom: 20px;
+}
+
+.template-3 .text-barco {
+    font-size: 24px;
+    text-align: left;
+    margin-left: 90px;
+    
+}
+
+.template-3 .img-barco {
+    height: 350px;
+    margin-left: 700px;
+    margin-top: -210px;
+    margin-bottom: 50px;
 }
 
 .template-5{
