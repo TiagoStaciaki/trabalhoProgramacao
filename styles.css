@@ -11,25 +11,28 @@ header {
     width: 100%;
     height: 60px;
     background-color: #1F2421;
-    background-size: cover;
     text-align: center;
-    align-items: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     position: fixed;
 }
 
-#ultimo{
+#imagem-ultimo{
     position: absolute;
     right: 0;
-    height: 35px;
+    margin-top: 0;
+    margin-right: 15px;
+    height: 50px;
 }
 
-a{
+.item{
     text-decoration: none;
     color: white;
-    margin: 0 15px 0 15px;
+    margin: 30px 15px 0 15px;
 }
 
+.links_topbar{
+    margin-top: 15px;
+}
 
 main{
     background-image: url(./img/background-main.jpeg);
