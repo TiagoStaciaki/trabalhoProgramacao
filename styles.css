@@ -122,3 +122,20 @@ footer{
     color: white;
     
 }
+
+.template-4{
+    font-size: 12px;
+    color: white;
+    background-color: rgb(0, 184, 0);
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 50%;
+    padding-top: 10px;
+}
+
+.template-4 a{
+    text-decoration: none;
+    color: white;
+}
